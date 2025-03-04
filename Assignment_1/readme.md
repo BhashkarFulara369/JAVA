@@ -1,3 +1,3 @@
 # Assignment 1 Answer DatesTime.java
 ## DatesTime.java OUTPUT -
-![Image](https://github.com/user-attachments/assets/5e7b8349-6770-44bf-9770-0d7794cd6964)
+![Image](https://github.com/user-attachments/assets/c82cd4d5-90bc-452e-b507-6c7004b61b68)
