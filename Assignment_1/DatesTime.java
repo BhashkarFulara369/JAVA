@@ -138,8 +138,8 @@ public class DatesTime {
 /* Explanation -> Here 3 Functions that i built previously required isLeapYear() nameofMonth() & strWithSuffix ()
 			strWithSuffix(d) adds the correct suffix to the day
 			nameOfMonth(m) returns the full name of the month
-	          Using ternay Operator first line checks if date is valid after second line is for Handling February specific
-			code and Leap Year.......
+	           first if statement checks if date is valid after second return is for Handling February specific
+			code and Leap Year....... 
 */
 
     public static String dateString(int d, int m, int y) {
