@@ -187,7 +187,7 @@ public class DatesTime {
 // OUTPUT of Exercise 6
         System.out.println("***Exercise 6 OUTPUT***" + "\n" + dateString(28, 2, 1800) + "\n" + dateString(29, 2, 1800) + "\n");
 
-// OUTPUT of Exercise 6
+// OUTPUT of Exercise 7
         System.out.println("***Exercise 7 OUTPUT***" + "\n" + timeString(86400) + "\n" + timeString(1000000) + "\n");
 
     }
