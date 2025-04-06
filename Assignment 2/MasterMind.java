@@ -1,6 +1,11 @@
 
+// Assignment 2 Submitted to Mr. Hem Bhatt
 
-
+/**
+ * @author Bhashkar_Fulara
+ * @version 23
+ * @since 2025-03-04
+ */
 
 import java.util.Random;
 import java.util.Scanner;
