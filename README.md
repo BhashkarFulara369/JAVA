@@ -66,18 +66,3 @@ An intuitive and scalable Java-based ticketing platform designed to streamline e
 
 ---
 
-## ✍️ Author
-
-**Bhaskar Fulara**  
-Backend Developer | Java Enthusiast | Tech Philosopher  
-Reach out on [LinkedIn](https://linkedin.com/) or raise an issue for suggestions and bugs.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-#### *Project code exists in master (other) branch*
