@@ -1,8 +1,10 @@
 # JAVA
+ETS project is on the master branch select the master branch from the branch section..........,
+
 All Java assignments are here Submitted to Mr. Hem Bhatt
 
 # Project 
-# 🎟️ E-Ticketing System
+#  E-Ticketing System
 
 An intuitive and scalable Java-based ticketing platform designed to streamline event access, reservation, and digital ticket management. Built with efficient session handling.
 
